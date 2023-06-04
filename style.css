@@ -1,9 +1,20 @@
 .container {
-	background-color: #22223b;
+	height: 500px;
+	background-color: #001427;
 	color: whitesmoke;
 	max-width: 370px;
 	margin: 0 auto;
-	padding: 15px 25px;
+	padding: 25px 25px;
 	border-radius: 4.6px;
 	font-family: Arial, Helvetica, sans-serif;
+}
+audio::-webkit-media-controls-play-button {
+	background-color: #f72585;
+	color: #fff;
+	border-radius: 50%;
+}
+.copyright {
+	font-size: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	text-align: center;
 }
