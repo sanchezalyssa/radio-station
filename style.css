@@ -1,0 +1,9 @@
+.container {
+	background-color: #22223b;
+	color: whitesmoke;
+	max-width: 370px;
+	margin: 0 auto;
+	padding: 15px 25px;
+	border-radius: 4.6px;
+	font-family: Arial, Helvetica, sans-serif;
+}
